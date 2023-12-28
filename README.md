@@ -6,6 +6,7 @@
 
 ## Login Page
   Users can sign up if they do not have an account and login to view their summaries.
+  
   ![output_image](https://github.com/kyashp/Snippts-repo/assets/154773174/c20c9570-37d1-4d10-973b-ceb627b2db76)
 
 ## Summaries Page
