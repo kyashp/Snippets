@@ -7,7 +7,7 @@ public class Db {
         Connection con=null;
         try{
              Class.forName("com.mysql.cj.jdbc.Driver");
-             con=DriverManager.getConnection("jdbc:mysql://localhost:3306/ceudo","root","Ceudo@890");
+             con=DriverManager.getConnection("jdbc:mysql://localhost:3306/database","root","Password");
         }
         catch(ClassNotFoundException | SQLException e){
             System.out.println("e");
