@@ -1,4 +1,4 @@
-# Snippts
+# Snippets
 
 ## Introduction
   Snippts is a book summary compilation for users to keep track of the important information from what they have read.
