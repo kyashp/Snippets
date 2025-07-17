@@ -1,7 +1,7 @@
 # Snippets
 
 ## Introduction
-  Snippts is a book summary compilation for users to keep track of the important information from what they have read.
+  Snippets is a book summary compilation for users to keep track of the important information from what they have read.
   With an account of their own, they can add, delete or update book summaries.
 
 ## Login Page
